@@ -34,7 +34,7 @@
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/images/readme/5.jpg)
+![ScreenShot](readme/5.jpg)
 ![ScreenShot](/public/images/readme/6.jpg)
 ![ScreenShot](/public/images/readme/7.jpg)
 ![ScreenShot](/public/images/readme/8.jpg)
