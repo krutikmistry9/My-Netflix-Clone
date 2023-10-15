@@ -35,11 +35,11 @@
 <div align="center"><a name="menu"></a>
 
 ![ScreenShot](readme/5.jpg)
-![ScreenShot](/public/images/readme/6.jpg)
-![ScreenShot](/public/images/readme/7.jpg)
-![ScreenShot](/public/images/readme/8.jpg)
-![ScreenShot](/public/images/readme/9.jpg)
-![ScreenShot](/public/images/readme/10.jpg)
+![ScreenShot](/readme/6.jpg)
+![ScreenShot](/readme/7.jpg)
+![ScreenShot](/readme/8.jpg)
+![ScreenShot](/readme/9.jpg)
+![ScreenShot](/readme/10.jpg)
 </div>
 
 The Home Page consists of 5 main sections:
@@ -73,8 +73,8 @@ It contains useful links users may need it.
  
  <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/11.jpg)
-![ScreenShot](/public/images/readme/12.jpg)
+![ScreenShot](/readme/11.jpg)
+![ScreenShot](/readme/12.jpg)
 </div>
 
 The Sign-in Page consists of 3 main sections:
@@ -103,8 +103,8 @@ It contains useful links users may need it.
  
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/13.jpg)
-![ScreenShot](/public/images/readme/12.jpg)
+![ScreenShot](readme/13.jpg)
+![ScreenShot](readme/12.jpg)
 </div>
 
 The Sign-up Page consists of 3 main sections:
@@ -135,10 +135,10 @@ It contains useful links users may need it.
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/1.jpg)
-![ScreenShot](/public/images/readme/2.jpg)
-![ScreenShot](/public/images/readme/3.jpg)
-![ScreenShot](/public/images/readme/4.jpg)
+![ScreenShot](readme/1.jpg)
+![ScreenShot](/readme/2.jpg)
+![ScreenShot](/readme/3.jpg)
+![ScreenShot](/readme/4.jpg)
 </div>
 
 The Browse Page consists of 5 main sections:
@@ -175,7 +175,7 @@ You can close the video player anytime by clicking anywhere else on the screen.
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/14.jpg)
+![ScreenShot](/readme/14.jpg)
 
 </div>
 
